@@ -43,28 +43,6 @@
       "reserve": "",
       "descripcion": "Un exclusivo salón de billar con instalaciones modernas y ambiente sofisticado.",
       "capacidad": "2 jugadores por mesa"
-    },
-    {
-      "id": "1",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/fa/e5/f3/subsuelo-salon-de-billar.jpg",
-      "name": "Salón de Billar Subsuelo",
-      "price": "24",
-      "rating": 5,
-      "author": "1a53",
-      "reserve": "",
-      "descripcion": "Salón de billar ubicado en el subsuelo, ideal para los amantes de la tranquilidad.",
-      "capacidad": "3 jugadores por mesa"
-    },
-    {
-      "id": "13",
-      "name": "Cancha Deportiva Brillante",
-      "image": "https://sportfield.com.mx/wp-content/uploads/2019/08/Brio-885x500.jpg",
-      "price": "14.5",
-      "rating": 4,
-      "author": "1a53",
-      "reserve": "",
-      "descripcion": "Una cancha de fútbol con césped sintético de alta calidad y buena iluminación nocturna.",
-      "capacidad": "fútbol 5"
     }
   ],
   "user": [
