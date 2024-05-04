@@ -87,17 +87,6 @@
       "reserve": "",
       "descripcion": "Una cancha de fútbol bien cuidada con servicios de vestuario y estacionamiento cercanos.",
       "capacidad": "fútbol 7"
-    },
-    {
-      "id": "16",
-      "name": "Cancha Deportiva Los Pioneros",
-      "image": "https://elcomercio.pe/resizer/keZ1vAQDJ5H7lXBaw0A66AsG5z0=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/YLGMR2KY7JH3BNR6Y5QVTVGZEE.jpg",
-      "price": "12.5",
-      "rating": 3,
-      "author": "3574",
-      "reserve": "9693",
-      "descripcion": "Una cancha de fútbol ideal para partidos amistosos, con un ambiente relajado y familiar.",
-      "capacidad": "fútbol 5"
     }
   ],
   "user": [
