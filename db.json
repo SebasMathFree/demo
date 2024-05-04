@@ -65,28 +65,6 @@
       "reserve": "",
       "descripcion": "Una cancha de fútbol con césped sintético de alta calidad y buena iluminación nocturna.",
       "capacidad": "fútbol 5"
-    },
-    {
-      "id": "2",
-      "name": "Cancha Deportiva Verde",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruSh-Ix2Lv4lNxvwRZZ2U8UKjmOiuew_gF-UHNAIwsw&s",
-      "price": "13.5",
-      "rating": 4,
-      "author": "1a53",
-      "reserve": "",
-      "descripcion": "Una cancha de fútbol con césped natural, perfecta para partidos con amigos.",
-      "capacidad": "fútbol 7"
-    },
-    {
-      "id": "6",
-      "name": "Cancha de Fútbol Dorada",
-      "image": "https://www.circulomilitardelperu.com/img/Sedess/Chorrillos/Areas%20Deportivas/Futbol/2.jpg",
-      "price": "115.0",
-      "rating": 4,
-      "author": "3574",
-      "reserve": "",
-      "descripcion": "Una cancha de fútbol bien cuidada con servicios de vestuario y estacionamiento cercanos.",
-      "capacidad": "fútbol 7"
     }
   ],
   "user": [
