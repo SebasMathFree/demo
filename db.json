@@ -34,34 +34,34 @@
       "capacidad": "fútbol 5"
     },
     {
-      "id": "2",
-      "name": "Cancha Deportiva Verde",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruSh-Ix2Lv4lNxvwRZZ2U8UKjmOiuew_gF-UHNAIwsw&s",
-      "price": "13.5",
-      "rating": 4,
-      "author": "1a53",
-      "reserve": "",
-      "descripcion": "Una cancha de fútbol con césped natural, perfecta para partidos con amigos.",
-      "capacidad": "fútbol 7"
+      "id": "16",
+      "name": "Cancha Deportiva Los Pioneros",
+      "image": "https://elcomercio.pe/resizer/keZ1vAQDJ5H7lXBaw0A66AsG5z0=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/YLGMR2KY7JH3BNR6Y5QVTVGZEE.jpg",
+      "price": "12.5",
+      "rating": 3,
+      "author": "3574",
+      "reserve": "9693",
+      "descripcion": "Una cancha de fútbol ideal para partidos amistosos, con un ambiente relajado y familiar.",
+      "capacidad": "fútbol 5"
     }
   ],
   "user": [
     {
-      "id": "1",
-      "name": "Juan",
-      "lastname": "Pérez",
-      "age": 30,
-      "role": "rentor",
-      "email": "juan@example.com",
-      "password": "123"
+      "id": "1a53",
+      "name": "free",
+      "lastname": "free",
+      "age": 22,
+      "role": "propietario",
+      "email": "free@gmail.com",
+      "password": "1234"
     },
     {
-      "id": "2",
-      "name": "María",
-      "lastname": "Gómez",
-      "age": 25,
-      "role": "propietario",
-      "email": "mari@gmail.com",
+      "id": "9693",
+      "name": "john",
+      "lastname": "at",
+      "age": 21,
+      "role": "rentor",
+      "email": "john@gmail.com",
       "password": "123"
     }
   ]
