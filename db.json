@@ -32,17 +32,6 @@
       "reserve": "9693",
       "descripcion": "Salón de billar perfecto para jugar con amigos y disfrutar de una experiencia única.",
       "capacidad": "3 jugadores por mesa"
-    },
-    {
-      "id": "15",
-      "name": "Salón de Billar VIP",
-      "image": "https://poolmania.es/recursos/gestor/blog/10%20salas.jpg",
-      "price": "15.5",
-      "rating": 5,
-      "author": "3574",
-      "reserve": "",
-      "descripcion": "Un exclusivo salón de billar con instalaciones modernas y ambiente sofisticado.",
-      "capacidad": "2 jugadores por mesa"
     }
   ],
   "user": [
