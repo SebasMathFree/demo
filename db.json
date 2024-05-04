@@ -21,17 +21,6 @@
       "reserve": "9693",
       "descripcion": "Un salón de billar de alta categoría con mesas profesionales y ambiente tranquilo.",
       "capacidad": "4 jugadores por mesa"
-    },
-    {
-      "id": "5",
-      "name": "Salón de Billar Los Amigos",
-      "image": "https://decofilia.com/wp-content/uploads/2015/07/sala-billar-en-casa-01.jpg",
-      "price": "55.0",
-      "rating": 5,
-      "author": "3574",
-      "reserve": "9693",
-      "descripcion": "Salón de billar perfecto para jugar con amigos y disfrutar de una experiencia única.",
-      "capacidad": "3 jugadores por mesa"
     }
   ],
   "user": [
