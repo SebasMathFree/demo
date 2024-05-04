@@ -21,6 +21,28 @@
       "reserve": "9693",
       "descripcion": "Un salón de billar de alta categoría con mesas profesionales y ambiente tranquilo.",
       "capacidad": "4 jugadores por mesa"
+    },
+    {
+      "id": "13",
+      "name": "Cancha Deportiva Brillante",
+      "image": "https://sportfield.com.mx/wp-content/uploads/2019/08/Brio-885x500.jpg",
+      "price": "14.5",
+      "rating": 4,
+      "author": "1a53",
+      "reserve": "",
+      "descripcion": "Una cancha de fútbol con césped sintético de alta calidad y buena iluminación nocturna.",
+      "capacidad": "fútbol 5"
+    },
+    {
+      "id": "2",
+      "name": "Cancha Deportiva Verde",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruSh-Ix2Lv4lNxvwRZZ2U8UKjmOiuew_gF-UHNAIwsw&s",
+      "price": "13.5",
+      "rating": 4,
+      "author": "1a53",
+      "reserve": "",
+      "descripcion": "Una cancha de fútbol con césped natural, perfecta para partidos con amigos.",
+      "capacidad": "fútbol 7"
     }
   ],
   "user": [
